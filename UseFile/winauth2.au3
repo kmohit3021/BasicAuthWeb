@@ -1,3 +1,4 @@
+WinWait("the-internet.herokuapp.com/basic_auth - Google Chrome")
 Send("admin")
 Send("{TAB}")
 Sleep(1000)
